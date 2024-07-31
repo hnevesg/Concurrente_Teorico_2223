@@ -1,5 +1,5 @@
 # Trabajo Teórico Concurrente 22/23
-Trabajo Teórico de Ada de Programación Concurrente y en Tiempo Real hecho durante el curso 22/23
+Trabajo Teórico de Ada de Programación Concurrente y Tiempo Real hecho durante el curso 22/23
 
 Componentes
 -----------
